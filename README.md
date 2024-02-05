@@ -2,4 +2,6 @@
 
 ## MotionDesignView
 
-https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/f2fb11b2-92f8-4e9c-a919-f52b519ec73f
+![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 05 28](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/ef83d236-95dc-414c-9f0f-812c34909088)
+
+
