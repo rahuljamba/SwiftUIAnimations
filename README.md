@@ -6,8 +6,5 @@
 
 ## FlickerLoadingView
 
-![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 15 16](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/5ce8705c-012a-419a-8af1-4fd8d82a17c0)
-
-
 https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/470959ac-77fb-41be-9e33-fc4770606b09
 
