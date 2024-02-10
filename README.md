@@ -20,6 +20,15 @@ https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/9b9fd4c0-0097-48
 
 https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/56745af0-fdd2-490c-92d1-c822b8f63082
 
+## Olega View
+
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/74bb9284-d1dd-42fb-b5ea-70962465a948
+
+## CiResearchAnimationView
+
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/f1681750-aa96-4bc8-86bb-cc8c1a1e32c2
+
+
 
 
 
