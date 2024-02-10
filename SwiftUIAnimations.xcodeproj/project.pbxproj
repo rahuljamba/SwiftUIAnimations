@@ -15,6 +15,8 @@
 		C4090F122B779BAE00DA7327 /* CiResearchAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F112B779BAE00DA7327 /* CiResearchAnimationView.swift */; };
 		C4090F142B779E9200DA7327 /* SliderRangeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F132B779E9200DA7327 /* SliderRangeView.swift */; };
 		C4090F162B779F9400DA7327 /* ButtonHoverAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F152B779F9400DA7327 /* ButtonHoverAnimationView.swift */; };
+		C4090F182B77A28000DA7327 /* LoadingAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F172B77A28000DA7327 /* LoadingAnimationView.swift */; };
+		C4090F1A2B77A2CD00DA7327 /* NeumorphicRadioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F192B77A2CD00DA7327 /* NeumorphicRadioView.swift */; };
 		C4F0BF842B6804EB00F3DE2B /* SwiftUIAnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4F0BF832B6804EB00F3DE2B /* SwiftUIAnimationsApp.swift */; };
 		C4F0BF862B6804EB00F3DE2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4F0BF852B6804EB00F3DE2B /* ContentView.swift */; };
 		C4F0BF882B6804ED00F3DE2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4F0BF872B6804ED00F3DE2B /* Assets.xcassets */; };
@@ -52,6 +54,8 @@
 		C4090F112B779BAE00DA7327 /* CiResearchAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CiResearchAnimationView.swift; sourceTree = "<group>"; };
 		C4090F132B779E9200DA7327 /* SliderRangeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderRangeView.swift; sourceTree = "<group>"; };
 		C4090F152B779F9400DA7327 /* ButtonHoverAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonHoverAnimationView.swift; sourceTree = "<group>"; };
+		C4090F172B77A28000DA7327 /* LoadingAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingAnimationView.swift; sourceTree = "<group>"; };
+		C4090F192B77A2CD00DA7327 /* NeumorphicRadioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphicRadioView.swift; sourceTree = "<group>"; };
 		C4F0BF802B6804EB00F3DE2B /* SwiftUIAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4F0BF832B6804EB00F3DE2B /* SwiftUIAnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimationsApp.swift; sourceTree = "<group>"; };
 		C4F0BF852B6804EB00F3DE2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -125,6 +129,8 @@
 				C4090F112B779BAE00DA7327 /* CiResearchAnimationView.swift */,
 				C4090F132B779E9200DA7327 /* SliderRangeView.swift */,
 				C4090F152B779F9400DA7327 /* ButtonHoverAnimationView.swift */,
+				C4090F172B77A28000DA7327 /* LoadingAnimationView.swift */,
+				C4090F192B77A2CD00DA7327 /* NeumorphicRadioView.swift */,
 				C4F0BFB32B6805B600F3DE2B /* Color+Extension */,
 				C4F0BF872B6804ED00F3DE2B /* Assets.xcassets */,
 				C4F0BF892B6804ED00F3DE2B /* Preview Content */,
@@ -296,6 +302,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4090F162B779F9400DA7327 /* ButtonHoverAnimationView.swift in Sources */,
+				C4090F182B77A28000DA7327 /* LoadingAnimationView.swift in Sources */,
+				C4090F1A2B77A2CD00DA7327 /* NeumorphicRadioView.swift in Sources */,
 				C4090F122B779BAE00DA7327 /* CiResearchAnimationView.swift in Sources */,
 				C4090F0C2B7795D000DA7327 /* EyeAnimationView.swift in Sources */,
 				C4090F082B7794BB00DA7327 /* FlickerLoadingView.swift in Sources */,
