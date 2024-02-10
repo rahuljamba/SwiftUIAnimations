@@ -28,7 +28,13 @@ https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/74bb9284-d1dd-42
 
 https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/f1681750-aa96-4bc8-86bb-cc8c1a1e32c2
 
+## SliderRangeView
 
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/a1e5c5c6-07de-40ce-8a8b-d2ef7ab14a85
+
+## ButtonHoverAnimationView
+
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/7f5e0ab5-868b-4fcb-b59c-57c2a5d31429
 
 
 
