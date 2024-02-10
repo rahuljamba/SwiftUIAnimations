@@ -10,15 +10,17 @@ https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/470959ac-77fb-41
 
 ## MoonAnimationView
 
-https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/5909315d-e1a3-4e0f-bb14-e05334db3176
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/8e7dca48-aa1d-4cf5-bf11-85e090328c37
 
 ## EyeAnimationView
 
-https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/f546d072-a04d-42ab-9c7e-b9aa3ffa07dc
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/9b9fd4c0-0097-48c5-95d6-a8d520703991
 
 ## ToggleSettingView
 
-https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/a0d807b0-e9e9-4375-9fd4-a4b2c66e94c2
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/56745af0-fdd2-490c-92d1-c822b8f63082
+
+
 
 
 
