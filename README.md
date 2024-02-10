@@ -38,11 +38,12 @@ https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/7f5e0ab5-868b-4f
 
 ## LoadingAnimationView
 
-https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/8b07e133-a457-4d60-9e9c-050e2b8efc6d
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/e4960381-b867-4af9-87ab-ec981a0b920b
 
 ## NeumorphicRadioView
 
-https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/1d33d340-440c-4b7b-bc21-0ba7c36b459c
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/e3ccd3d0-3096-4ac5-8a20-d165e031fd35
+
 
 
 
