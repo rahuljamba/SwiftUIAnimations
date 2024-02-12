@@ -44,6 +44,10 @@ https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/e4960381-b867-4a
 
 https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/e3ccd3d0-3096-4ac5-8a20-d165e031fd35
 
+## DeoxyribonucleicAcidView
+
+https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/64bab81e-bac8-4f62-908a-66322d409747
+
 
 
 
