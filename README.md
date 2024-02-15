@@ -1,5 +1,9 @@
 # SwiftUiAnimations Projects is view animation demo based
 
+MotionDesignView           |  FlickerLoadingView       | Tiger                       
+:-------------------------:|:-------------------------:| :-------------------------:
+[![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 05 28](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/ef83d236-95dc-414c-9f0f-812c34909088)](https://www.youtube.com/watch?v=kvspmH3rRy4)  |  [![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 05 28](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/ef83d236-95dc-414c-9f0f-812c34909088)](https://www.youtube.com/watch?v=kvspmH3rRy4) | [![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 05 28](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/ef83d236-95dc-414c-9f0f-812c34909088)](https://www.youtube.com/watch?v=kvspmH3rRy4) | [![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 05 28](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/ef83d236-95dc-414c-9f0f-812c34909088)](https://www.youtube.com/watch?v=kvspmH3rRy4)
+
 ## MotionDesignView
 
 ![Simulator Screen Recording - iPhone 15 - 2024-02-05 at 23 05 28](https://github.com/rahuljamba/SwiftUIAnimations/assets/12054446/ef83d236-95dc-414c-9f0f-812c34909088)
