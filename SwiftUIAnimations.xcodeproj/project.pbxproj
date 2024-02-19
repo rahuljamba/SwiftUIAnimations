@@ -21,6 +21,8 @@
 		C4090F1E2B7E850000DA7327 /* ARVRDesignUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F1D2B7E850000DA7327 /* ARVRDesignUIView.swift */; };
 		C4090F202B8324E400DA7327 /* LampLightTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F1F2B8324E400DA7327 /* LampLightTabView.swift */; };
 		C4090F222B83287400DA7327 /* EmailValidationFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F212B83287400DA7327 /* EmailValidationFormView.swift */; };
+		C4090F262B83299200DA7327 /* Cartoon_face.scn in Resources */ = {isa = PBXBuildFile; fileRef = C4090F252B83299200DA7327 /* Cartoon_face.scn */; };
+		C4090F282B832A0700DA7327 /* ThreeDAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4090F272B832A0700DA7327 /* ThreeDAnimationView.swift */; };
 		C4F0BF842B6804EB00F3DE2B /* SwiftUIAnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4F0BF832B6804EB00F3DE2B /* SwiftUIAnimationsApp.swift */; };
 		C4F0BF862B6804EB00F3DE2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4F0BF852B6804EB00F3DE2B /* ContentView.swift */; };
 		C4F0BF882B6804ED00F3DE2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4F0BF872B6804ED00F3DE2B /* Assets.xcassets */; };
@@ -64,6 +66,8 @@
 		C4090F1D2B7E850000DA7327 /* ARVRDesignUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARVRDesignUIView.swift; sourceTree = "<group>"; };
 		C4090F1F2B8324E400DA7327 /* LampLightTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LampLightTabView.swift; sourceTree = "<group>"; };
 		C4090F212B83287400DA7327 /* EmailValidationFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailValidationFormView.swift; sourceTree = "<group>"; };
+		C4090F252B83299200DA7327 /* Cartoon_face.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Cartoon_face.scn; sourceTree = "<group>"; };
+		C4090F272B832A0700DA7327 /* ThreeDAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeDAnimationView.swift; sourceTree = "<group>"; };
 		C4F0BF802B6804EB00F3DE2B /* SwiftUIAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4F0BF832B6804EB00F3DE2B /* SwiftUIAnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimationsApp.swift; sourceTree = "<group>"; };
 		C4F0BF852B6804EB00F3DE2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +107,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C4090F232B83297200DA7327 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				C4090F242B83298000DA7327 /* 3d Files */,
+				C4F0BFB32B6805B600F3DE2B /* Color+Extension */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		C4090F242B83298000DA7327 /* 3d Files */ = {
+			isa = PBXGroup;
+			children = (
+				C4090F252B83299200DA7327 /* Cartoon_face.scn */,
+			);
+			path = "3d Files";
+			sourceTree = "<group>";
+		};
 		C4F0BF772B6804EB00F3DE2B = {
 			isa = PBXGroup;
 			children = (
@@ -143,7 +164,8 @@
 				C4090F1D2B7E850000DA7327 /* ARVRDesignUIView.swift */,
 				C4090F1F2B8324E400DA7327 /* LampLightTabView.swift */,
 				C4090F212B83287400DA7327 /* EmailValidationFormView.swift */,
-				C4F0BFB32B6805B600F3DE2B /* Color+Extension */,
+				C4090F272B832A0700DA7327 /* ThreeDAnimationView.swift */,
+				C4090F232B83297200DA7327 /* Utility */,
 				C4F0BF872B6804ED00F3DE2B /* Assets.xcassets */,
 				C4F0BF892B6804ED00F3DE2B /* Preview Content */,
 			);
@@ -288,6 +310,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4F0BF8B2B6804ED00F3DE2B /* Preview Assets.xcassets in Resources */,
+				C4090F262B83299200DA7327 /* Cartoon_face.scn in Resources */,
 				C4F0BF882B6804ED00F3DE2B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -328,6 +351,7 @@
 				C4090F0A2B7794C700DA7327 /* MoonAnimationView.swift in Sources */,
 				C4090F102B779A6800DA7327 /* OlegView.swift in Sources */,
 				C4F0BFB22B6805AD00F3DE2B /* Color+Extension.swift in Sources */,
+				C4090F282B832A0700DA7327 /* ThreeDAnimationView.swift in Sources */,
 				C4090F1C2B7AB5C500DA7327 /* DeoxyribonucleicAcidView.swift in Sources */,
 				C4090F1E2B7E850000DA7327 /* ARVRDesignUIView.swift in Sources */,
 				C4090F202B8324E400DA7327 /* LampLightTabView.swift in Sources */,
