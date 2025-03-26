@@ -28,7 +28,7 @@ struct EmailValidationFormView: View {
                 TextField("", text: $enterEmailText, prompt: Text("Enter valid email").foregroundColor(.white))
                     .padding()
                     .foregroundColor(.white)
-                    .onChange(of: enterEmailText) { newValue in
+                    .onChange(of: enterEmailText) { _, newValue in
                         isSelected = newValue.isValidEmail()
                     }
                 

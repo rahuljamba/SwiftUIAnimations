@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MoonAnimationView: View {
     
-    @State private var progress:CGFloat = .zero
+    @State private var progress: CGFloat = .zero
     
     var body: some View {
         ZStack {
@@ -99,17 +99,19 @@ struct MoonAnimationView: View {
             
         }
         .onAppear {
-            
-            Timer.scheduledTimer(withTimeInterval: 0.1, repeats: true) { timer in
-                withAnimation {
+            startUpdatingProgress()
+        }
+    }
+    
+    
+    private func startUpdatingProgress() {
+        Timer.scheduledTimer(withTimeInterval: 0.1, repeats: true) { timer in
+            withAnimation {
+                DispatchQueue.main.async {
                     progress += 0.04
                 }
             }
-            
         }
-        
-        
-        
     }
 }
 
